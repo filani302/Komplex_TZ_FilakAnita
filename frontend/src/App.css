@@ -1,0 +1,17 @@
+.container{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 10px; 
+}
+
+.harmas{
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #ccc;
+
+}
+
+.barna{
+  background-color: rgb(190, 166, 150);
+}
